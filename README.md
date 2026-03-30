@@ -7,6 +7,8 @@ This project analyzes retail sales data using Excel and Power BI to uncover insi
 ## 🔹 Workflow:
 Excel → Data Cleaning → Pivot Analysis → Power BI Dashboard → Insights
 
+---
+
 ## 🔹 Tools Used
 - Excel (Data Cleaning & Preparation)
 - Power BI (Dashboard & Visualization)
