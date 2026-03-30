@@ -47,5 +47,5 @@ https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
 
 ## 🔹 Preview
 
-![Dashboard](dashboard_preview.png) 
+![Dashboard](Dashboard_Preview.png) 
 
